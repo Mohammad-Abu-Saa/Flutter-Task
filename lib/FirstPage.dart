@@ -60,6 +60,9 @@ class AppBody extends StatelessWidget
                 color: Colors.cyan,
               ),
             ),
+            SizedBox(
+              height: 20,
+            ),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
